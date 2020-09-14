@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Viney Gautam",
+    "occupation": "freelancer",
+    "description": "Full Stack React Developer , Founder && Freelancer ",
+    "image": "viney.jpg",
+    "bio": "My name is Viney Gautam, I'm a Full Stack ReactJS Developer having the ability to convert stack into a project",
+    "contactmessage": "Get in touch with me to receive further details",
+    "email": "vineygautam.21@gmail.com",
+    "phone": "+91 7018745229",
+    "address": {
+      "street": "una",
+      "city": "una",
+      "state": "Himachal",
+      "zip": "174303"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1iVBuFHfAYf_dze7ok_hdvEYor9hhZEUL/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/viney.viney.1232",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/viney-gautam-362071172/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/viney_gautam/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/viney20",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Chitkara University",
+        "degree": "Computer Science Engineering",
+        "graduated": "July 2020",
+        "description": "Graduated with 7.6 CGPA"
+      }
+    ],
+    "work": [
+      {
+        "company": "INFOSYS",
+        "title": "System Engineer intern  ",
+        "years": "Feb 2020 - March 2020",
+        "description": "Learning  basic technique of programing."
+      },
+      {
+        "company": "Freelancer",
+        "title": "Full stack developer",
+        "years": "April 2020 - Present",
+        "description": "Building website and mobile application with ReactJs and React_Native."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Portfolio",
+        "category": "Built  with ReactJS",
+        "image": "portfolio.png",
+        "url": "https://github.com/viney20/portfolio-REACTJS"
+      },
+      {
+        "title": "bumble UI",
+        "category": "Build using React-Native and EXPO",
+        "image": "bumbleSS.png",
+        "url": "https://github.com/viney20/bumble-UI"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Viney Gautam must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
